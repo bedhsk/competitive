@@ -1,0 +1,14 @@
+/home/bed/code/competitive/codewars/10-rgb_to_hex/cs-solution/bin/Debug/net8.0/cs-solution
+/home/bed/code/competitive/codewars/10-rgb_to_hex/cs-solution/bin/Debug/net8.0/cs-solution.deps.json
+/home/bed/code/competitive/codewars/10-rgb_to_hex/cs-solution/bin/Debug/net8.0/cs-solution.runtimeconfig.json
+/home/bed/code/competitive/codewars/10-rgb_to_hex/cs-solution/bin/Debug/net8.0/cs-solution.dll
+/home/bed/code/competitive/codewars/10-rgb_to_hex/cs-solution/bin/Debug/net8.0/cs-solution.pdb
+/home/bed/code/competitive/codewars/10-rgb_to_hex/cs-solution/obj/Debug/net8.0/cs-solution.GeneratedMSBuildEditorConfig.editorconfig
+/home/bed/code/competitive/codewars/10-rgb_to_hex/cs-solution/obj/Debug/net8.0/cs-solution.AssemblyInfoInputs.cache
+/home/bed/code/competitive/codewars/10-rgb_to_hex/cs-solution/obj/Debug/net8.0/cs-solution.AssemblyInfo.cs
+/home/bed/code/competitive/codewars/10-rgb_to_hex/cs-solution/obj/Debug/net8.0/cs-solution.csproj.CoreCompileInputs.cache
+/home/bed/code/competitive/codewars/10-rgb_to_hex/cs-solution/obj/Debug/net8.0/cs-solution.dll
+/home/bed/code/competitive/codewars/10-rgb_to_hex/cs-solution/obj/Debug/net8.0/refint/cs-solution.dll
+/home/bed/code/competitive/codewars/10-rgb_to_hex/cs-solution/obj/Debug/net8.0/cs-solution.pdb
+/home/bed/code/competitive/codewars/10-rgb_to_hex/cs-solution/obj/Debug/net8.0/cs-solution.genruntimeconfig.cache
+/home/bed/code/competitive/codewars/10-rgb_to_hex/cs-solution/obj/Debug/net8.0/ref/cs-solution.dll
